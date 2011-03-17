@@ -1,0 +1,7 @@
+base   color
+author Christopher Smith
+email  chris@jalakai.co.uk
+date   2008-02-06
+name   color plugin
+desc   Changes text colour and background
+url    http://www.dokuwiki.org/plugin:color
